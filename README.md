@@ -46,3 +46,6 @@ Log Analysis Skills: Shown in the interpretation of both suricata.log and eve.js
 Attention to Detail: Evident in the comprehensive logging and analysis of file hashes.
 Problem-Solving Ability: Reflected in the effective setup of real-time monitoring and alert systems.
 By showcasing these skills, I prove my capability to handle complex security implementations and provide robust solutions for network protection against malware and other cyber threats.
+
+I have attched the result screenshot and the command to run suricata.
+
